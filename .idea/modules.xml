@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FlowMind.iml" filepath="$PROJECT_DIR$/.idea/FlowMind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xyzs_ai_factory.iml" filepath="$PROJECT_DIR$/.idea/xyzs_ai_factory.iml" />
     </modules>
   </component>
 </project>
